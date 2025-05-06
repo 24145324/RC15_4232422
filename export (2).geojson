@@ -1,0 +1,445 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-05-06T09:55:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/1375116",
+        "addr:housename": "Bentley House",
+        "addr:housenumber": "200",
+        "addr:street": "Euston Road",
+        "building": "dormitory",
+        "building:levels": "7",
+        "building:material": "brick",
+        "height": "27",
+        "name": "IQ Bloomsbury (Bentley House)",
+        "type": "multipolygon",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1349569,
+          51.5262862
+        ]
+      },
+      "id": "relation/1375116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25820641",
+        "addr:city": "London",
+        "addr:housenumber": "127",
+        "addr:postcode": "SW4 9PA",
+        "addr:street": "Park Hill",
+        "amenity": "school",
+        "capacity": "250",
+        "isced:level": "0;1",
+        "max_age": "11",
+        "min_age": "3",
+        "name": "Iqra Primary School",
+        "phone": "+44 20 76223630",
+        "ref:GB:uprn": "200000476089",
+        "ref:edubase": "135614",
+        "religion": "muslim",
+        "school:trust": "no",
+        "school:type": "voluntary_aided",
+        "website": "https://www.iqra.lambeth.sch.uk/",
+        "wikidata": "Q66816862",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1299653,
+          51.455077
+        ]
+      },
+      "id": "way/25820641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/153084821",
+        "addr:housenumber": "792",
+        "building": "yes",
+        "internet_access": "terminal",
+        "name": "Iqra Internet Cafe",
+        "shop": "communication",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1329612,
+          51.5652129
+        ]
+      },
+      "id": "way/153084821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/164483525",
+        "addr:city": "London",
+        "addr:street": "Kingsland Road",
+        "building": "dormitory",
+        "name": "IQ Student Accommodation",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0776389,
+          51.5298661
+        ]
+      },
+      "id": "way/164483525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182927523",
+        "addr:city": "London",
+        "addr:housenumber": "450",
+        "addr:postcode": "E1 4GG",
+        "addr:street": "Mile End Road",
+        "building": "apartments",
+        "building:levels": "8",
+        "name": "IQ East Court",
+        "roof:shape": "flat",
+        "since": "2012",
+        "source": "bing;local knowledge",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0381032,
+          51.5235287
+        ]
+      },
+      "id": "way/182927523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/184055801",
+        "addr:city": "London",
+        "addr:housenumber": "2",
+        "addr:postcode": "N1 6AT",
+        "addr:street": "Silicon Way",
+        "building": "yes",
+        "building:levels": "17",
+        "name": "iQ Shoreditch",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0875787,
+          51.527907
+        ]
+      },
+      "id": "way/184055801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/199634691",
+        "addr:city": "London",
+        "addr:country": "GB",
+        "addr:housenumber": "82",
+        "addr:street": "High Street",
+        "addr:suburb": "Walthamstow",
+        "building": "yes",
+        "check_date": "2022-05-23",
+        "name": "Iqbal Travel",
+        "shop": "travel_agency",
+        "source": "survey",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0294583,
+          51.5823395
+        ]
+      },
+      "id": "way/199634691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234754398",
+        "barrier": "fence",
+        "check_date": "2024-04-12",
+        "construction": "residential",
+        "landuse": "construction",
+        "name": "IQL North",
+        "operator": "Hadley Property Group",
+        "ref:planning:lldc": "23/00441/FUL",
+        "surface": "grass",
+        "was:name": "The International Quarter (North)",
+        "website": "https://www.iqlnorth.co.uk/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.005436,
+          51.5458109
+        ]
+      },
+      "id": "way/234754398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/275127244",
+        "addr:city": "London",
+        "addr:housenumber": "177",
+        "addr:street": "Wardour Street",
+        "building": "yes",
+        "building:levels": "4",
+        "building:material": "brick",
+        "name": "IQOS Wardour Street",
+        "roof:levels": "1",
+        "source": "Bing;photograph",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1354017,
+          51.5150064
+        ]
+      },
+      "id": "way/275127244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/285328317",
+        "building": "commercial",
+        "name": "IQ Storage & Logistics",
+        "source": "bing",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1726787,
+          51.4816868
+        ]
+      },
+      "id": "way/285328317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/394939527",
+        "addr:city": "London",
+        "addr:housenumber": "385-401",
+        "addr:postcode": "N7 0RY",
+        "addr:street": "Holloway Rd",
+        "building": "residential",
+        "building:levels": "6",
+        "name": "iQ The Arcade",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1196834,
+          51.5572856
+        ]
+      },
+      "id": "way/394939527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/432267237",
+        "addr:city": "London",
+        "addr:housenumber": "116",
+        "addr:street": "New Cavendish Street",
+        "hairdresser": "barber",
+        "name": "Iqon Barber",
+        "shop": "hairdresser",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.142129,
+          51.5201354
+        ]
+      },
+      "id": "way/432267237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/637312547",
+        "addr:city": "London",
+        "addr:housename": "Boxpark Shoreditch",
+        "addr:housenumber": "2-10",
+        "addr:postcode": "E1 6GY",
+        "addr:street": "Bethnal Green Road",
+        "addr:unit": "Unit 20",
+        "brand": "IQOS",
+        "brand:wikidata": "Q48744311",
+        "level": "0",
+        "name": "IQOS",
+        "shop": "e-cigarette",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0762702,
+          51.5234868
+        ]
+      },
+      "id": "way/637312547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/976864675",
+        "addr:housenumber": "230",
+        "addr:street": "Shepherds Bush Road",
+        "building": "dormitory",
+        "name": "iQ Hammersmith",
+        "wikidata": "Q5645751",
+        "wikipedia": "en:Hammersmith Palais",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2244151,
+          51.4942455
+        ]
+      },
+      "id": "way/976864675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1006545032",
+        "addr:housenumber": "41",
+        "addr:street": "Upton Lane",
+        "building": "commercial",
+        "name": "IQ Tech",
+        "shop": "electronics",
+        "source:addr:housenumber": "interpolated",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0264593,
+          51.5445898
+        ]
+      },
+      "id": "way/1006545032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1008100909",
+        "addr:city": "London",
+        "addr:housenumber": "4",
+        "addr:postcode": "E7 8HY",
+        "addr:street": "St. George's Road",
+        "building": "commercial",
+        "fhrs:id": "860738",
+        "name": "Iqbal Food Store",
+        "shop": "convenience",
+        "source:addr": "FHRS opendata",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0264938,
+          51.541749
+        ]
+      },
+      "id": "way/1008100909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7688768335",
+        "addr:housenumber": "133",
+        "addr:street": "Kensington High Street",
+        "brand": "IQOS",
+        "brand:wikidata": "Q48744311",
+        "name": "IQOS",
+        "shop": "e-cigarette"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1936145,
+          51.5006489
+        ]
+      },
+      "id": "node/7688768335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8702886382",
+        "addr:city": "London",
+        "addr:housenumber": "28",
+        "addr:postcode": "W13 9RL",
+        "addr:street": "Northfield Avenue",
+        "email": "inamulhaqq@hotmail.com",
+        "name": "IQ Motors",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "phone": "+44 7771 542 186",
+        "shop": "car_parts",
+        "website": "https://faheemqureshi14.wixsite.com/iqmotorslimited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3192472,
+          51.5048142
+        ]
+      },
+      "id": "node/8702886382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12169889359",
+        "addr:city": "London",
+        "addr:housenumber": "60",
+        "addr:postcode": "NW10 4AE",
+        "addr:street": "Craven Park Road",
+        "amenity": "place_of_worship",
+        "check_date": "2024-05-15",
+        "name": "Iqraa Ethiopian Muslim Centre",
+        "religion": "muslim",
+        "source:addr:postcode": "FHRS Open Data"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2508046,
+          51.539183
+        ]
+      },
+      "id": "node/12169889359"
+    }
+  ]
+}
